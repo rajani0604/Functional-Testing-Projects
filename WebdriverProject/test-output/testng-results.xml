@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T16:15:57 UTC" name="Suite" finished-at="2024-01-12T16:16:02 UTC" duration-ms="5288">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T16:15:57 UTC" name="Test" finished-at="2024-01-12T16:16:02 UTC" duration-ms="5288">
+      <class name="testng.CardTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testng.CardTest@3f6f6701]" started-at="2024-01-12T16:15:57 UTC" name="SetUp" finished-at="2024-01-12T16:15:59 UTC" duration-ms="2623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TC01_CreditCardTest()[pri:0, instance:testng.CardTest@3f6f6701]" started-at="2024-01-12T16:15:59 UTC" name="TC01_CreditCardTest" finished-at="2024-01-12T16:15:59 UTC" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_CreditCardTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testng.CardTest@3f6f6701]" started-at="2024-01-12T16:15:59 UTC" name="TearDown" finished-at="2024-01-12T16:16:00 UTC" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testng.CardTest -->
+      <class name="testng.LoanTest">
+        <test-method is-config="true" signature="Method3()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:15:57 UTC" name="Method3" finished-at="2024-01-12T16:15:57 UTC" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:00 UTC" name="SetUp" finished-at="2024-01-12T16:16:02 UTC" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="Method1()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:02 UTC" name="Method1" finished-at="2024-01-12T16:16:02 UTC" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method signature="TC01_HomeLoanTest()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:02 UTC" name="TC01_HomeLoanTest" finished-at="2024-01-12T16:16:02 UTC" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_HomeLoanTest -->
+        <test-method is-config="true" signature="Method2()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:02 UTC" name="Method2" finished-at="2024-01-12T16:16:02 UTC" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:02 UTC" name="TearDown" finished-at="2024-01-12T16:16:02 UTC" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="Method4()[pri:0, instance:testng.LoanTest@7526515b]" started-at="2024-01-12T16:16:02 UTC" name="Method4" finished-at="2024-01-12T16:16:02 UTC" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method4 -->
+      </class> <!-- testng.LoanTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
