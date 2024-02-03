@@ -1,1 +1,1 @@
-# JunitProject
+# Functional Testing Projects
